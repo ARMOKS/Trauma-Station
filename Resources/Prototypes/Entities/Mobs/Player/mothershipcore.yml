@@ -252,7 +252,9 @@
     understands:
     - TauCetiBasic
     - RobotTalk
-  # </Trauma>
+  - type: Viewcone
+    baseConeAngle: 360
+  #</Trauma>
 
 - type: entity
   parent: BaseAGhostAction
